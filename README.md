@@ -1,1 +1,1 @@
-# Project-on-Algerian-forest-fire-prediction-using-Linear-Lasso-and-Ridge
+# Algerian-forest-fire-prediction-using-Linear-Lasso-and-Ridge
